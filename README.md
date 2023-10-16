@@ -5,8 +5,6 @@
 
 Worked through the whole process of data science (DE/DA + DS) in MTK, one of the biggest IC design company.
 
-Aiming to be a machine learning engineer.
-
 - 🔭 I’m currently working on [Mediatek](https://en.wikipedia.org/wiki/MediaTek)
 - 📄 Know about my experiences [[resume-en](https://www.linkedin.com/in/lea-yeh-60296b74/overlay/1635502560909/single-media-viewer/?type=DOCUMENT&profileId=ACoAAA_N36IBghgozuvjrfkma6-7er4-Bp4kkhQ)] [[resume-cn](https://www.cakeresume.com/smile2140-63dc54-1d482e)]
 - 📫 How to reach me [[mail](lea.yeh.ml@gmail.com)] [[linkedin](https://www.linkedin.com/in/lea-yeh-60296b74/)]
