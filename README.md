@@ -1,7 +1,8 @@
 # Hi 👋, I'm Lea Yeh
-
 ### Data Scientist and Engineer in IC design house
 ![LeaYeh](https://komarev.com/ghpvc/?username=LeaYeh&color=brightgreen&style=flat)
+
+![LeaYeh's github stats](https://github-readme-stats.vercel.app/api?username=LeaYeh&show_icons=true&theme=merko)
 
 Worked through the whole process of data science (DE/DA + DS) in MTK, one of the biggest IC design companies.
 
