@@ -1,27 +1,28 @@
 # Hi 👋, I'm Lea Yeh
-### Data Scientist and Engineer in IC design house
+### Data Engineer & Scientist
+
 ![LeaYeh](https://komarev.com/ghpvc/?username=LeaYeh&color=brightgreen&style=flat)
 
 ![LeaYeh's github stats](https://github-readme-stats.vercel.app/api?username=LeaYeh&show_icons=true&theme=merko)
 
-Worked through the whole process of data science (DE/DA + DS) in MTK, one of the biggest IC design companies.
+## About Me
+- 🎓 I hold a Master of Computer Science degree from NCTU, Taiwan.
+- 💼 With over seven years of combined experience as a Data Scientist, Data Engineer, and Software Engineer, I have a proven track record of driving project success across diverse teams.
+- 🌟 At MediaTek, I led initiatives that improved mobile device functionalities and developed robust data pipelines that enhanced R&D efficiency and product yields.
+- 🛠️ I'm skilled in designing and implementing machine learning models and data pipelines.
 
-- 🔭 I’m currently working on [Mediatek](https://en.wikipedia.org/wiki/MediaTek)
-- 📄 Know about my experiences [[resume-en](https://www.linkedin.com/in/lea-yeh-60296b74/overlay/1635502560909/single-media-viewer?type=DOCUMENT&profileId=ACoAAA_N36IBghgozuvjrfkma6-7er4-Bp4kkhQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByxijcfTlSz2ETGL9qq03sQ%3D%3D)] [[resume-cn](https://www.cakeresume.com/smile2140-63dc54-1d482e)]
-- 📫 How to reach me [[mail](lea.yeh.ml@gmail.com)] [[linkedin](https://www.linkedin.com/in/lea-yeh-60296b74))]
+## Technical Skills
+- **Languages:** Python, SQL, Java
+- **Technologies:** Databricks, TensorFlow, PyTorch, Scikit-Learn
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, Jenkins
 
+## Contact Me
+- 📫 How to reach me:
+  - [LinkedIn Profile](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/lea-yeh-60296b74/)
+  - [Email](lea.yeh.ml@gmail.com)
 
-<!--
-**LeaYeh/LeaYeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm looking for opportunities
+I am actively seeking opportunities in the data domain, particularly positions related to Machine Learning Operation Engineering, Data Science, and Data Engineering.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting my GitHub profile!
