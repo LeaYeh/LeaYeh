@@ -12,10 +12,10 @@
 - 🛠️ I'm skilled in designing and implementing machine learning models and data pipelines.
 
 ## Technical Skills
-- **Languages:** Python, SQL, Java
-- **Technologies:** Databricks, TensorFlow, PyTorch, Scikit-Learn
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Jenkins
+- **Languages:** Python, SQL, SPL, C/C++
+- **Technologies:** Data Warehouse, Data Pipeline, Machine Learning
+- **Cloud Platform:** GCP
+- **Tools:** Git, Docker, Splunk, Bigquery, Airflow, MLflow
 
 
 ## Contact Me
