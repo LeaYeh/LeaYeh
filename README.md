@@ -19,7 +19,7 @@
 
 ## Contact Me
 - 📫 How to reach me:
-  - [LinkedIn Profile](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/lea-yeh-60296b74/)
+  - [LinkedIn Profile](https://www.linkedin.com/in/lea-yeh-60296b74/)
   - [Email](lea.yeh.ml@gmail.com)
 
 ## I'm looking for opportunities
