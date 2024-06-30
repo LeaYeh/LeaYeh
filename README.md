@@ -15,7 +15,7 @@
 - 🌟 At MediaTek, I led initiatives that improved mobile device functionalities and developed robust data pipelines that enhanced R&D efficiency and product yields.
 - 🛠️ I'm skilled in designing and implementing machine learning models and data pipelines.
 - 📈 I'm passionate about to solve problems with elegent and robust structure.
-  - Currently, I'm learning system programming and parallel computing to enhance my skills in 42Vienna. ([current status](https://github.com/LeaYeh/LeaYeh/42_stats.md))
+  - Currently, I'm learning system programming and parallel computing to enhance my skills in 42Vienna. ([current status](https://github.com/LeaYeh/LeaYeh/blob/main/42_stat.md))
 
 ## Technical Skills
 - **Languages:** Python, SQL, SPL, C/C++
