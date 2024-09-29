@@ -30,7 +30,7 @@
   - [resume](https://www.canva.com/design/DAGDPnlNmwg/B7jRHt7zizxllfvqhtqtog/view?utm_content=DAGDPnlNmwg&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
   - [CV](https://registry.jsonresume.org/LeaYeh)
 - 📫 How to reach me:
-  - [LinkedIn Profile](https://www.linkedin.com/in/lea-yeh-60296b74/)
+  - [LinkedIn Profile](https://www.linkedin.com/in/leayeh/)
   - [Email](lea.yeh.ml@gmail.com)
 
 ## I'm looking for opportunities
