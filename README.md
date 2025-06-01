@@ -31,7 +31,7 @@
   - [CV](https://registry.jsonresume.org/LeaYeh)
 - 📫 How to reach me:
   - [LinkedIn Profile](https://www.linkedin.com/in/leayeh/)
-  - [Email](lea.yeh.ml@gmail.com)
+  - [Email](mailto:lea.yeh.ml@gmail.com)
 
 ## I'm looking for opportunities
 I am actively seeking opportunities in the data domain, particularly positions related to Machine Learning Operation Engineering, Data Science, and Data Engineering.
