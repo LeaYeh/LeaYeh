@@ -41,7 +41,7 @@
 
 ## GitHub Stats
 
-![LeaYeh's github stats](https://github-readme-stats.vercel.app/api?username=LeaYeh&show_icons=true&theme=merko)
+![GitHub Streak](https://streak-stats.demolab.com?user=LeaYeh&theme=merko&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeaYeh&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeaYeh&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeaYeh&theme=github)
